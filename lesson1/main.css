@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+h1 {
+    font-size: 25px;
+
+}
+
+p{
+    background: yellowgreen;
+}
+
+li{
+    background-color: silver;
+}
+img{
+    width: 200px;
+    text-align: center;
+}
